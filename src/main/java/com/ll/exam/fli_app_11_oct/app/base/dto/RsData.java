@@ -1,4 +1,4 @@
-package com.ll.exam.fli_app_11_oct.app.base.dto.RsData;
+package com.ll.exam.fli_app_11_oct.app.base.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

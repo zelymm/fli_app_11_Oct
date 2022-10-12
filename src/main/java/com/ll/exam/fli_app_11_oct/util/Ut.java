@@ -3,7 +3,7 @@ package com.ll.exam.fli_app_11_oct.util;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ll.exam.fli_app_11_oct.app.AppConfig;
-import com.ll.exam.fli_app_11_oct.app.base.dto.RsData.RsData;
+import com.ll.exam.fli_app_11_oct.app.base.dto.RsData;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
